@@ -5,7 +5,7 @@
   import "../app.css";
 
   onMount(async () => {
-    const src = dev
+    const src = dev || import.meta.env.MODE === "staging"
       ? "https://sandbox.web.squarecdn.com/v1/square.js"
       : "https://web.squarecdn.com/v1/square.js";
     const scriptEl = document.createElement("script");

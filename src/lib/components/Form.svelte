@@ -20,7 +20,6 @@
 
     try {
       const schema: InferType<TypedSchema> = await validate(formData);
-      console.table(schema);
       await asyncSubmit(schema);
     } catch (err) {
       console.log(err);

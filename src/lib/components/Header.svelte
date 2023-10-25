@@ -5,7 +5,7 @@
       <source srcset="/header.png 1x" type="image/png" />
       <img
         src="/header.png"
-        alt="Welcome to SSPP 2020 Christmas Raffle"
+        alt="Welcome to SSPP 2023 Christmas Raffle"
         title="SSPP Raffle Header"
       />
     </picture>

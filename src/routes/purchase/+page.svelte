@@ -10,7 +10,7 @@
 
   const squareAppId = import.meta.env.VITE_SQUARE_APP_ID;
   const squareLocationId = import.meta.env.VITE_SQUARE_LOCATION_ID;
-  const ticketCost = 5000;
+  const ticketCost = 2000;
 
   let card: any = null;
   let cardError = false;

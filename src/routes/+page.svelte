@@ -18,7 +18,7 @@
     <div
       class="max-w-2xl mx-auto p-6 font-semibold text-xl md:text-2xl text-center text-christmas-dark-red leading-8 tracking-widest uppercase"
     >
-      This year we'll be raffling off $20,000 in cash giveaways!
+      This year we'll be raffling off $10,000 in cash giveaways!
     </div>
   </section>
 
@@ -41,10 +41,10 @@
             <sup class="text-5xl">$</sup><span class="text-7xl">5,000</span>
           </div>
           <div class="pb-2 text-christmas-dark-red text-lg whitespace-no-wrap">
-            <span class="uppercase font-semibold">Three</span>
-            people will win
+            <span class="uppercase font-semibold">One</span>
+            person will win a
             <span class="font-semibold">$5,000</span>
-            giveaways
+            giveaway
           </div>
         </div>
         <div class="flex justify-center items-center h-24 my-6">

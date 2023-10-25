@@ -17,8 +17,8 @@
   <div class="text-lg">
     You will receive a confirmation email
     {email ? `at ${email}` : ""}
-    for your records. We look forward to seeing you online on December 5
-    <sup>th</sup>
+    for your records. We look forward to seeing you online on December 2
+    <sup>nd</sup>
     ! GOOD LUCK!
   </div>
 </section>
